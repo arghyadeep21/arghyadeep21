@@ -6,13 +6,12 @@
 ## I'm a:
  - **Python Developer 🐍**
  - **Automation Expert ⚙️**
- - **Freelancer at [Upwork](https://www.upwork.com/o/profiles/users/~01dfd208b466fa8f0b/) 💻**
  - **Competitive Coder 🐱‍💻**
 
 ## I love to:
  - **Read (mainly non-fiction) books 📚**
   *(Hey! Want book recommendations and reviews?*
-  *Follow me on [Instagram](https://www.instagram.com/b_soumya4/))*
+  *Follow me on [Instagram](https://www.instagram.com/mady_creations_/))*
  - **Listen to music 🎧**
  - **Travel ✈️**
  - **Eat Biriyani 🤤**
@@ -33,14 +32,14 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png" alt="git" width="30" height="30">
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="30" height="30"></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&layout=compact" alt="imsoumya18" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsoumya18&layout=compact" alt="imsoumya18" /></p> -->
  
-## Connect with me:
+<!-- ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/soumyadeep-biswas-4345a417b/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Soumyadeep Biswas" height="30" width="40" /></a>
 <a href="https://www.instagram.com/b_soumya4/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="b_soumya4" height="30" width="40" /></a>
 <a href="mailto:soumyadeep184@gmail.com"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="soumyadeep184@gmail.com" height="30" width="40" /></a>
-</p>
+</p> -->
 
-|<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18"/>|
-|---|---|
+<!-- |<img src="https://github-readme-stats.vercel.app/api?username=imsoumya18&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsoumya18"/>|
+|---|---| -->
